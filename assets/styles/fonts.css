@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Arial Narrow";
+  src: url("../fonts/arial-narrow-regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Univers Mono";
+  src: url("../fonts/univers-mono.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

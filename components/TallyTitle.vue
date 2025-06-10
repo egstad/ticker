@@ -17,8 +17,8 @@
 }
 
 h2 {
-  font-family: "Arial Narrow";
-  font-size: clamp(28px, 4vw, 40px);
+  font-family: "Arial Narrow", sans-serif;
+  font-size: clamp(28px, 2.5vw, 64px);
   line-height: 1.1;
   font-weight: normal;
   text-transform: uppercase;
@@ -27,6 +27,7 @@ h2 {
 }
 
 p {
+  font-size: clamp(14px, 1vw, 24px);
   color: #666;
   display: flex;
   flex-direction: column;

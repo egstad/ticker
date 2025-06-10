@@ -10,7 +10,7 @@
   padding: 0 4px;
   border-radius: 4px;
   font-size: 10px;
-  font-family: "LTUnivers Typewriter", monospace;
+  font-family: "Univers Mono", monospace;
   letter-spacing: 0.05em;
   font-weight: normal;
   text-transform: uppercase;

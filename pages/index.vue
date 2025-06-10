@@ -117,7 +117,7 @@ onMounted(() => {
 }
 
 small {
-  font-family: "LTUnivers Typewriter", monospace;
+  font-family: "Univers Mono", monospace;
   text-transform: uppercase;
   font-size: 9px;
   margin-top: 4px;

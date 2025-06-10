@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   compatibilityDate: "2025-05-15",
   devtools: { enabled: true },
-  css: ["~/assets/styles/reset.css"],
+  css: ["~/assets/styles/reset.css", "~/assets/styles/fonts.css"],
   app: {
     head: {
       htmlAttrs: {
